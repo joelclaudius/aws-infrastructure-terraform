@@ -9,7 +9,7 @@ variable "vpc_name" {
 }
 
 variable "cblock" {
-  default = "10.0.0.0/16"
+  default = "192.168.0.0/16"
 }
 
 #security group variables

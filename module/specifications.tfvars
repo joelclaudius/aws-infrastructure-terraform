@@ -1,5 +1,4 @@
-#Kindly uncomment the below variable name to specify which type to use, 
-#else default will be used.
+#Kindly uncomment the below variable name to specify which type to use, else default will be used.
 
 #region = ""
 
