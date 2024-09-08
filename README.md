@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Terraform project module is designed to create an Amazon EC2 instance within a Virtual Private Cloud (VPC) with customizable specifications. It includes the ability to generate and download SSH key pairs, define security group rules, and provides output information about the created instance and VPC resources. Users can easily configure the instance details using a `specifications.tfvars` file or use default values set in `variables.tf`.
+This Terraform project module is designed to create an Amazon EC2 instance within a Virtual Private Cloud (VPC) with customizable specifications. It includes the ability to generate and download SSH key pairs, define security group rules, and provides output information about the created instance and VPC resources. Users can easily configure the instance details using a `specifications.tfvars` file or use default values set in `variables.tf`..
 
 ## Contents
 
@@ -21,7 +21,7 @@ This Terraform project module is designed to create an Amazon EC2 instance withi
 
 2. Customize the `specifications.tfvars` file to define your EC2 instance specifications.
 
-3. Run `terraform init` to initialize the Terraform environment.
+3. Run `terraform init` to initialize the Terraform environment..
 
 4. Run `terraform apply -var-file=specifications.tfvars` to create the EC2 instance and associated resources.
 
